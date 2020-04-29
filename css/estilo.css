@@ -37,6 +37,7 @@ body {
 #area-lateral {
 	width: 240px;
 	float: right;
+	
 }
 
 .postagem{
@@ -49,19 +50,22 @@ body {
 	background: white;
 	padding: 10px;
 	margin-bottom: 20px;
+	
 }
 
 .postagem-lateral {
 	font-size: 0.8em;
 	padding: 5px;
 	border-bottom: 1px dotted #CCC;
+
 }
 
-#footer {
+footer {
 	clear: both;
 	text-align: center;
 	padding: 15px;
 	background: #CCC;
+	width: 100%;
 }
 
 /*
