@@ -53,17 +53,49 @@ body {
 	padding: 10px;
 	margin-bottom: 20px;
 	
+	
 }
 
-.menu-lateral {
+.postagem-lateral {
 	font-size: 0.9em;
 	padding: 5px;
 	border-bottom: 1px dotted #CCC;
+	background: white;
+	
 
 }
-.menu-lateral a{
+.postagem-lateral a{
 	color: #FF1B2A;
 }
+/*Menu Lateral*/
+
+#menu-lateral{
+	padding: 10px;
+	
+	
+	background: white;
+}
+.navbar ul{
+	padding: 5px;
+	
+
+}
+.navbar a{
+	padding: 5px;
+	font-family: "arial", sans-serif;
+
+
+
+	color: #FF1B2A;
+	display: block;
+}
+.navbar a:hover{
+	color: white;
+	background: #FF1B2A;
+	
+}
+
+
 
 footer {
 	clear: both;
@@ -72,6 +104,7 @@ footer {
 	background: #CCC;
 	width: 100%;
 }
+
 
 /*
 **** Formatação do menu ****
