@@ -55,11 +55,14 @@ body {
 	
 }
 
-.postagem-lateral {
-	font-size: 0.8em;
+.menu-lateral {
+	font-size: 0.9em;
 	padding: 5px;
 	border-bottom: 1px dotted #CCC;
 
+}
+.menu-lateral a{
+	color: #FF1B2A;
 }
 
 footer {
@@ -84,8 +87,11 @@ nav{
 	text-align: center;
 
 }
+ul{
+	list-style-type:none; 
+}
 nav ul li{
-	list-style: none; 
+	
 	display: inline;
 
 }
