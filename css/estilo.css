@@ -29,6 +29,7 @@ body {
 	width: 920px;
 	margin: 0 auto;
 	padding: 15px;
+	border: 1px solid black;
 }
 
 #area-postagens {
@@ -145,16 +146,16 @@ background: white;
 /*
 **** Formatações em geral ****
 */
-h1 {
+ h1 {
 	color: #4e4e4e;
 	font-size: 2.5em;
 }
 
-h2 {
+ h2 {
 	color: #f7b600;
 }
 
-h3 {
+ h3 {
 	color: #565656;
 	background: #CCC;
 	padding: 5px;
@@ -179,7 +180,27 @@ h3 {
 	color: #FF1B2A;
 
 }
+/*---------GAMES.HTML------------*/
+#conteudo-games{
+	border: 1px solid black;
+	width: 660px;
+	margin: 0 auto;
 
+}
+.img-games {
+	width: 500px;
+	height: 300px;
+
+}
+.titulo-games{
+	text-align: center;
+	margin-bottom: 60px;
+	
+	width: 100%;
+	color: #FF1B2A;
+	font-size: 2.5em;
+	float: left;
+}
 
 
 
