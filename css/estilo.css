@@ -1,7 +1,7 @@
 /*Limpar formatações padrão*/
 * {
 	margin: 0;
-	padding: 0; 
+	padding: 0;  
 }
 
 body {
@@ -29,7 +29,7 @@ body {
 	width: 920px;
 	margin: 0 auto;
 	padding: 15px;
-	border: 1px solid black;
+	
 }
 
 #area-postagens {
@@ -181,26 +181,6 @@ background: white;
 
 }
 /*---------GAMES.HTML------------*/
-#conteudo-games{
-	border: 1px solid black;
-	width: 660px;
-	margin: 0 auto;
-
-}
-.img-games {
-	width: 500px;
-	height: 300px;
-
-}
-.titulo-games{
-	text-align: center;
-	margin-bottom: 60px;
-	
-	width: 100%;
-	color: #FF1B2A;
-	font-size: 2.5em;
-	float: left;
-}
 
 
 
