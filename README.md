@@ -1,2 +1,2 @@
 # projeto-html
- primeiro repositorio versionado
+Basic website in HTML5 and CSS3

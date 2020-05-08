@@ -102,7 +102,7 @@ footer {
 	clear: both;
 	text-align: center;
 	padding: 15px;
-	background: #CCC;
+	background: #999999;
 	width: 100%;
 }
 
@@ -185,7 +185,7 @@ background: white;
 .postagem-games p {
 	padding: 10px;
 }
-.conteudo-lateral h4{
+.conteudo-lateral-games h4{
 	text-transform: uppercase;
 	padding-bottom: 5px;
 	color: black;
@@ -230,11 +230,14 @@ background: white;
 	color: #FF1B2A;
 
 }
+.postagem-lateral-games a{
+	color: #FF1B2A;
 
+}
 
 /*-----------Computing.html------------------*/
 	
-	margin-bottom: 20px;
+	
 	.postagem-computing {
 		padding: 20px;
 	margin-bottom: 20px;
