@@ -190,9 +190,22 @@ background: white;
 	padding-bottom: 5px;
 	color: black;
 }
+.postagem-games img{
+	width: 500px;
+	height: 300px;
+}
+.postagem-games{
+	padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+}
+.postagem-games p {
+	padding: 10px;
+}
+
 
 /*-----------Computing.html------------------*/
-padding: 20px;
+	
 	margin-bottom: 20px;
 	.postagem-computing {
 		padding: 20px;
