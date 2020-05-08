@@ -152,7 +152,7 @@ background: white;
 }
 
  h2 {
-	color: #f7b600;
+	color:#FF1B2A;
 }
 
  h3 {
@@ -182,7 +182,7 @@ background: white;
 }
 /*---------GAMES.HTML------------*/
 
-.postagem p {
+.postagem-games p {
 	padding: 10px;
 }
 .conteudo-lateral h4{
@@ -201,6 +201,34 @@ background: white;
 }
 .postagem-games p {
 	padding: 10px;
+}
+.titulo-games{
+	padding: 10px;
+	color: #FF1B2A;
+}
+#area-postagens-games {
+	width: 660px;
+	float: left;
+}
+.conteudo-lateral-games {
+	background: white;
+	padding: 10px;
+	margin-bottom: 20px;
+	
+	
+}
+
+.postagem-lateral-games {
+	font-size: 0.9em;
+	padding: 5px;
+	border-bottom: 1px dotted #CCC;
+	background: white;
+	
+
+}
+.postagem-games a{
+	color: #FF1B2A;
+
 }
 
 
