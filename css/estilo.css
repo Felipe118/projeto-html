@@ -263,4 +263,22 @@ background: white;
 .postagem-computing p {
 	padding: 10px;
 }
+#area-lateral-computing {
+	width: 240px;
+	float: right;
+	
+}
+.conteudo-lateral-computing h4{
+	text-transform: uppercase;
+	padding-bottom: 5px;
+	color: black;
+}
+.conteudo-lateral-computing {
+	background: white;
+	padding: 10px;
+	margin-bottom: 20px;
+	
+	
+}
+
 
