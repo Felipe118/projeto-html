@@ -243,4 +243,24 @@ background: white;
 	margin-bottom: 20px;
 	background: white;
 }
+#area-postagens-computing {
+	width: 660px;
+	float: left;
+}
+.postagem-computing a{
+	color: #FF1B2A;
+
+}
+.postagem-computing img{
+	width: 500px;
+	height: 300px;
+}
+.postagem-computing{
+	padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+}
+.postagem-computing p {
+	padding: 10px;
+}
 
