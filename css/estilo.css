@@ -291,4 +291,59 @@ background: white;
 .conteudo-lateral-computing a{
 	color: #FF1B2A;
 }
+/*------------Cell.html--------------*/
+.postagem-cell {
+		padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+}
+#area-postagens-cell {
+	width: 660px;
+	float: left;
+}
+.postagem-cell a{
+	color: #FF1B2A;
+
+}
+.postagem-cell img{
+	width: 500px;
+	height: 300px;
+}
+.postagem-cell{
+	padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+}
+.postagem-cell p {
+	padding: 10px;
+}
+#area-lateral-cell {
+	width: 240px;
+	float: right;
+	
+}
+.conteudo-lateral-cell h4{
+	text-transform: uppercase;
+	padding-bottom: 5px;
+	color: black;
+}
+.conteudo-lateral-cell {
+	background: white;
+	padding: 10px;
+	margin-bottom: 20px;
+	
+	
+}
+.postagem-lateral-cell {
+	font-size: 0.9em;
+	padding: 5px;
+	border-bottom: 1px dotted #CCC;
+	background: white;
+	
+
+}
+.conteudo-lateral-computing a{
+	color: #FF1B2A;
+}
+
 
